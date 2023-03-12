@@ -1,6 +1,6 @@
 # Vladimir Drobyshev
 
-![this is me](img/1.jpeg "The best programmer in the world")
+The best programmer in the world :))
 
 
 ## Contacts:   
