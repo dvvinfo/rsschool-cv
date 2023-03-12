@@ -1,6 +1,6 @@
 # Vladimir Drobyshev
 
-![this is me](images/1.jpeg "The best programmer in the world")
+![this is me](img/1.jpeg "The best programmer in the world")
 
 
 ## Contacts:   
@@ -61,7 +61,7 @@ const visibleData = computed(() => {
 });
 ```
 
-## My home projects:
+## My projects:
 
 [My portfolio](https://portfolio-dvvinfo.netlify.app/) [ GitHub repo ](https://github.com/dvvinfo/my-portfolio)
 Technologies: HTML, CSS, NuxtJS, AOS
